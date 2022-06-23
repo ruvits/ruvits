@@ -51,7 +51,7 @@ function Dreams() {
 </div>
 
 <div alling="center">
-  <a href="https://github.com/Ruvits">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ruvits&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvits&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/ruvits">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ruvits&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruvits&layout=compact&langs_count=7&theme=dracula"/>
 </div>
